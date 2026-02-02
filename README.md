@@ -1,6 +1,6 @@
 <h3>Hi, I'm Eduardo 👋🏼</h3>
 
-📍 **Bogotá ↔ Colombia** | Software Engineer  
+📍 **Bogotá ↔ Colombia** | **Software Engineer**
 
 _Focused on software architecture, scalability, and building agnostic solutions that evolve reliably over time._
 
